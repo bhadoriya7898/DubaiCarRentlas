@@ -40,7 +40,7 @@ const Footer = () => {
               Email Us
             </h4>
             <p className="text-gray-300 text-xl group-hover:text-white group-hover:underline underline-offset-4 transition">
-              dubaicarental4@gmail.com
+              info@dubaicarental.com
             </p>
           </div>
         </a>
